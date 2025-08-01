@@ -5,7 +5,7 @@
   "movieTime": "[data-seance-id='228']",
   "buyingTitle": ".buying__info-title",
   "schemaWrapper": ".buying-scheme__wrapper",
-  "seat": ":nth-child(3) > :nth-child(6)",
+  "seat": ":nth-child(4) > :nth-child(5)",
   "button": ".acceptin-button",
   "ticketTitle": ".ticket__check-title",
   "qr": ".ticket__info-qr"
